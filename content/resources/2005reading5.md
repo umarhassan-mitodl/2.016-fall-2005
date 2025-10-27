@@ -5,8 +5,6 @@ description: This resource contains fluid forces on bodies, steady flow, and uns
 file: /courses/2-016-hydrodynamics-13-012-fall-2005/7b7f30b7b534f4613d671fd7eb1052cc_2005reading5.pdf
 file_size: 120755
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

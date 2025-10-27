@@ -4,8 +4,6 @@ description: This resource contains solutions for exam 2.
 file: /courses/2-016-hydrodynamics-13-012-fall-2005/8e676463adfe1140b92e3836f32c783c_exam2_2003soln.pdf
 file_size: 232572
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

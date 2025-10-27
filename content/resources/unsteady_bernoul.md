@@ -4,8 +4,6 @@ description: This resource explains derivation of unsteady bernoulli?s equation.
 file: /courses/2-016-hydrodynamics-13-012-fall-2005/0c0ab81e69eced8dd763790c23801b87_unsteady_bernoul.pdf
 file_size: 75758
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

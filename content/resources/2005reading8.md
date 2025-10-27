@@ -5,8 +5,6 @@ description: This resource contains froude krylov excitation force, multi hulled
 file: /courses/2-016-hydrodynamics-13-012-fall-2005/03bdb1d91476c5138f911309dd026e41_2005reading8.pdf
 file_size: 195232
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

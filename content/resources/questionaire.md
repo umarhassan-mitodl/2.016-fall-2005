@@ -5,8 +5,6 @@ description: This resource contains 13 questions to test students understanding 
 file: /courses/2-016-hydrodynamics-13-012-fall-2005/b5f9dbbad60bc1060f5be887955aa762_questionaire.pdf
 file_size: 42206
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

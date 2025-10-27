@@ -4,8 +4,6 @@ description: This resource contains solutions to assignment 1.
 file: /courses/2-016-hydrodynamics-13-012-fall-2005/677ff2c17d527cb231092242a38da1d4_hw1_soln.pdf
 file_size: 293341
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

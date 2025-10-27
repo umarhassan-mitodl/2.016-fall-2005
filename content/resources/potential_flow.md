@@ -5,8 +5,6 @@ description: This resource contains stream functions for planar flow and potenti
 file: /courses/2-016-hydrodynamics-13-012-fall-2005/20b3e1b7b85203a798bb3e995591a312_potential_flow.pdf
 file_size: 248449
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
